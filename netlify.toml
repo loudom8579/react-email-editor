@@ -1,4 +1,4 @@
 [build]
 command = "npm build react"
-publish = "/demo/src/"
-base = "/demo/src/"
+publish = "/"
+base = "/"
